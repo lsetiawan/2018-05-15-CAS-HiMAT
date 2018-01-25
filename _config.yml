@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+
+title: "HiMAT workshop"
+description: "HiMAT Workshop"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+githublink_url: https://github.com/NASA-Planetary-Science/HiMAT
+author_name: Anthony Arendt, Ph.D.
+author_email: arendta@uw.edu
+author_url: http://apl.uw.edu/people/profile.php?last_name=Arendt&first_name=Anthony
+# google_analytics: UA-110829098-1
