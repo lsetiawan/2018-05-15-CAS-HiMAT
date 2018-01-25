@@ -4,8 +4,8 @@ docs:
 - title: Home
   url: index.html
 
-- title: Portal
-  url: portal.html
+- title: Participant List
+  url: participant-list.html
 
 - title: Toolbox
   url: toolbox.html
