@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
+---
+
 # CAS/NASA meeting: Juneau, Alaska
 
 May 15 - May 19, 2017
@@ -13,11 +15,15 @@ May 15 - May 19, 2017
 
 ---
 
-## Logistics 
+## About the workshop
 
-### Travel
-[Alaska Airlines](http://alaskaair.com/) has 4 non-stop flights per day from Seattle to Juneau, and is currently the only airline serving Juneau that time of year. We will assist in providing taxi service for our Chinese colleagues to get from the Juneau airport to downtown. US researchers will be expected to pay for their own transportation via taxi or public transport to get downtown. 
+Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.
 
-- test
-- test
+For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.
+
+Curious that we spend more time congratulating people who have succeeded than encouraging people who have not.
+
+The path of a cosmonaut is not an easy, triumphant march to glory. You have to get to know the meaning not just of joy but also of grief, before being allowed in the spacecraft cabin.
+
+As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore . . . and this is exploration at its greatest.
 
