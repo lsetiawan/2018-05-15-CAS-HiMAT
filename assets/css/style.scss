@@ -6,6 +6,7 @@
 /* below for navbar */
 .topnav {
     overflow: hidden;
+    padding: 20px;
 }
 
 /* Style the links inside the navigation bar */
@@ -19,12 +20,10 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: #fff;
-    background-opacity: 0.7;
+    color: #000;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #fff;
-    color: #fff;
+    color: #000;
 }
