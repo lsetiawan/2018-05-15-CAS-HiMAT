@@ -5,12 +5,12 @@ title: "Home"
 
 ---
 
-# CAS/NASA all-hands meeting: Seattle, WA
+# NASA All-Hands Meeting: Seattle, WA
 
 March 20 - March 22, 2018
 9:00 am - 5:30 pm
 
-**Meeting Leaders**: LI Zhen, Anthony Arendt
+**Meeting Leaders**: Anthony Arendt
 **Facilitators**: LIU Jie, Yu-Chan Chao, Sheila Ocoma
 
 ---
