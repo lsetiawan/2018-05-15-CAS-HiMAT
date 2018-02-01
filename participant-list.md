@@ -3,13 +3,13 @@ layout: default
 title: "Participant List"
 ---
 
-### NASA researchers
+### Current list of participants as of Feb 1, 2018
 
 Last Name | Attending
 ---|---
 Appana | Yes
 Arendt | Yes
-Burr, A. | Yes
+Burr | Yes
 Casey | Maybe
 Chao, Yu-Chan | Yes
 Christensen, W | Yes
@@ -19,8 +19,6 @@ Ginoux | Yes
 Haley | Yes
 H-G Chan | Maybe
 Holben | Yes
-Holben | Yes
-Holben | Maybe
 Houser | Yes
 Hsu | Yes
 Kapnick | Yes
@@ -28,9 +26,7 @@ Kargel | Yes
 Kim | Maybe
 Kirschbaum | Yes
 Kumar | Yes
-linares | Yes
-linares | Yes
-linares | Yes
+Linares | Yes
 Loomis | Yes
 Maggioni | Yes
 Margulis | Yes
@@ -39,9 +35,8 @@ McDonald K | Yes
 Mishra | Maybe
 Osmanoglu | Yes
 Painter | Yes
-Qian, Y. | Yes
+Qian | Yes
 Raup | Yes
-Reese | Yes
 Reese | Yes
 Richey | Yes
 Rittger | Maybe
@@ -51,6 +46,6 @@ Searby | Yes
 Shean | Yes
 Shugar | Yes
 Steenburgh | Yes
-Tanner, S. | Yes
+Tanner | Yes
 Tsay | Yes
 Velicogna | Yes
