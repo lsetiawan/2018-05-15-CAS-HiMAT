@@ -3,16 +3,6 @@ layout: default
 title: "Agenda"
 ---
 
-
-
-# Pre-Work:
-
-All PI Teams are required to provide the following to Anthony prior to the workshop:
-
-
-<hr>
-<hr>
-
 # Day 1: Tuesday March 20
 
 | Time | Topic / Activity |
