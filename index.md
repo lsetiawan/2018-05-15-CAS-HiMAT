@@ -11,8 +11,9 @@ title: "Home"
 
 ## Dates: March 20 - March 22, 2018
 
-**Meeting Leaders**: Anthony Arendt
-**Facilitators**: Charley Haley, Yu-Chan Chao, Sheila Ocoma
+**Meeting Leaders**: Anthony Arendt, Tom Wagner
+**Facilitator**: Charley Haley
+**Administrative support**: Yu-Chan Chao, Sheila Ocoma
 
 ---
 
