@@ -42,11 +42,16 @@ We need to define the breakout groups in advance of the meeting. These are ideas
 
 * **precipitation** progress on 3 papers; downscaling efforts, statistical validation
 * **glaciers** what are the land surface models showing? How to refine and improve glacier simulations, especially how to handle geometry adjustments in future simulations? Discuss latest Huss and Hock paper.
-* **snow** 
-* **hazards**
-* **impacts**
 * **ground observations** working through details of which stations are ordered/to be ordered, how to share the data, who to contact  
 * **computing** Is ADAPT serving our needs? Some teams want to explore deploying WRF in commercial cloud: should we try this? Can we shift some of our data sharing to AWS? 
+* **snow** 
+* **climate modeling**
+* **land surface modeling**
+* **GLOFs**
+* **remote sensing validation**
+* **hazards**
+* **impacts**
+
 
 | Time | Topic / Activity |
 |------------:|:-------------|
@@ -69,8 +74,13 @@ We need to define the breakout groups in advance of the meeting. These are ideas
 
 # Day 3: Thursday March 22
 
-## Shared understanding of authorship and data sharing policies
-
-## Building a roadmap for team paper and dataset publications
+| Time | Topic / Activity |
+|------------:|:-------------|
+| 9:00 - 10:30 am | Group charter on authorship and data sharing policies |
+| 10:30 - 11:00 am | coffee |
+| 11:00 - 12:00 pm | Agreeing on timeline for collaborative publications |
+| 12:00 - 1:30 pm | Lunch |
+| 1:30 - 2:30 pm | Building a schedule for data release |
+| 2:30 - 3:00 pm | Summary and closing |
 
 
