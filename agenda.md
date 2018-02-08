@@ -36,7 +36,7 @@ title: "Agenda"
 
 # Day 2: Wednesday March 21
 
-On day 2 we will leave space for breakout teams. Our thinking is that connections and collaborations across the team are already well defined, and people need time to get with their collaborators to work through details.
+On day 2 we will leave space for breakout teams. Our thinking is that connections and collaborations across the team are already well defined, and that people will be able to quickly form groups to dive deeper on specific details.
 
 We need to define the breakout groups in advance of the meeting. These are ideas, to be refined as we approach the event:
 
