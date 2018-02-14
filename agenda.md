@@ -18,7 +18,8 @@ title: "Agenda"
 | 11:00 - 11:20 am | Presentation  #4 |
 | 11:20 - 11:40 am | Presentation  #5 |
 | 11:40 - 12:00 am | Presentation  #6 |
-| 12:00 - 1:30 pm | Lunch |
+| 12:00 - 12:30 pm | Social Networking | 
+| 12:30 - 1:30 pm | Lunch |
 |  | Presentations (Round 2) |
 | 1:30 - 1:50 pm | Presentation  #7 |
 | 1:50 - 2:10 pm | Presentation  #8 |
@@ -60,11 +61,11 @@ We need to define the breakout groups in advance of the meeting. These are ideas
 |  | Breakout group #2 (Room B) |
 |  | Breakout group #3 (Room C) |
 | 10:30 - 11:00 am | Coffee break |
-11:00 am - 12:00 pm | | 
+11:00 am - 12:30 pm | | 
 |  | Breakout group #4 (Room A) |
 |  | Breakout group #5 (Room B) |
 |  | Breakout group #6 (Room C) |
-| 12:00 - 1:30 pm | Lunch |
+| 12:30 - 1:30 pm | Lunch |
 | 1:30 - 2:30 pm | Reporting back to the group: what have we learned? | 
 | 2:30 - 3:00 pm | Coffee break |
 | 3:00 - 5:00 pm | |
@@ -76,9 +77,9 @@ We need to define the breakout groups in advance of the meeting. These are ideas
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 10:30 am | Group charter on authorship and data sharing policies |
+| 9:00 - 10:30 am | Group discussion on authorship and data sharing policies |
 | 10:30 - 11:00 am | coffee |
-| 11:00 - 12:00 pm | Agreeing on timeline for collaborative publications |
+| 11:00 - 12:00 pm | Building a timeline for collaborative publications |
 | 12:00 - 1:30 pm | Lunch |
 | 1:30 - 2:30 pm | Building a schedule for data release |
 | 2:30 - 3:00 pm | Summary and closing |

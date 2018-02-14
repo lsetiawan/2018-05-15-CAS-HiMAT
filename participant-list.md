@@ -35,6 +35,7 @@ title: "Participant List"
 | Mishra | Shruti | YES | 
 | Osmanoglu | Batuhan | YES | 
 | Painter | Thomas | YES | 
+| Prusevich | Alex | YES |
 | Qian | Yun | YES | 
 | Raup | Bruce | YES | 
 | Reese | Shane | YES | 
