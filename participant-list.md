@@ -3,55 +3,48 @@ layout: default
 title: "Participant List"
 ---
 
-### Current list of participants as of Feb 8, 2018
+### Current list of participants as of Feb 19, 2018
 
-| Last Name | First Name | Attending? |
-|---|---|----|
-| Appana | Ravi | YES | 
-| Arendt | Anthony | YES | 
-| Burr | A | YES | 
-| Casey | Kimberly | YES | 
-| Chan | H-G | YES | 
-| Christensen | William | YES | 
-| Cortes | Gonzalo | YES | 
-| Ellenburg | Lee | YES | 
-| Forman | Bart | YES | 
-| Ginoux | Paul | YES | 
-| Haley | Charley | YES | 
-| Holben | Brent | YES | 
-| Houser | Paul | YES | 
-| Hsu | Christina | YES | 
-| Kapnick | Sarah | YES | 
-| Kargel | Jeffrey | YES | 
-| Kim | Kyu-Myong | YES | 
-| Kirschbaum | Dalia | YES | 
-| Kumar | Sujay | YES | 
-| Linares | Melissa | YES | 
-| Loomis | Bryant | YES | 
-| Maggioni | Viviana | YES | 
-| Margulis | Steve | YES | 
-| Maurer | Josh | YES | 
-| McDonald | Kyle | YES | 
-| Mishra | Shruti | YES | 
-| Osmanoglu | Batuhan | YES | 
-| Painter | Thomas | YES | 
-| Prusevich | Alex | YES |
-| Qian | Yun | YES | 
-| Raup | Bruce | YES | 
-| Reese | Shane | YES | 
-| Richey | Sasha | YES | 
-| Rittger | Karl | YES | 
-| Rounce | David | YES | 
-| Rupper | Summer | YES | 
-| Schiassi | Enrico | YES | 
-| Searby | Nancy | YES | 
-| Shean | David | YES | 
-| Shugar | Daniel | YES | 
-| Steenburgh | Jim | YES | 
-| Tanner | Steve | YES | 
-| Tedesco | Marco | YES | 
-| Tsay | Si-Chee | YES | 
-| Velicogna | Isabella | YES | 
-| Watson | Scott | YES | 
-| Yoon | Yeosang | YES | 
-| Zhou | Yifan | YES | 
+|  Name |
+|----|
+| Anthony Arendt |
+| Ravi Appana |
+| Veronica (Hoi Ga) Chan |
+| William Christensen |
+| Bart Forman |
+| Paul Ginoux |
+| Charley Haley |
+| Paul Houser |
+| Christina Hsu |
+| Sarah Kapnick |
+| Jeffrey Kargel |
+| Dalia Kirschbaum |
+| Sujay Kumar |
+| Melissa Linares |
+| Bryant Loomis |
+| Viviana Maggioni |
+| Steve Margulis |
+| Josh Maurer |
+| Kyle McDonald |
+| Batuhan Osmanoglu |
+| Thomas Painter |
+| Alex Prusevich |
+| Yun Qian |
+| Bruce Raup |
+| Shane Reese |
+| Sasha Richey |
+| David Rounce |
+| Summer Rupper |
+| Enrico Schiassi |
+| Nancy Searby |
+| David Shean |
+| Daniel Shugar |
+| Jim Steenburgh |
+| Nicholas Steiner |
+| Steve Tanner |
+| Marco Tedesco |
+| Si-Chee Tsay |
+| Isabella Velicogna |
+| Scott Watson |
+| Yeosang Yoon |
+| Yifan Zhou |
