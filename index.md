@@ -5,21 +5,18 @@ title: "Home"
 
 ---
 
-# NASA HiMAT All-Hands Meeting
+# CAS/NASA meeting
+## Location: Chengdu, China
 
-## Location: Seattle, WA
+## Dates: May 15 - May 18, 2018
 
-## Dates: March 20 - March 22, 2018
+**Meeting Leaders**: TBD
+**Facilitator**: TBD
 
-**Meeting Leaders**: Anthony Arendt, Tom Wagner
-
-**Facilitator**: Charley Haley
-
-**Administrative support**: Yu-Chan Chao, Sheila Ocoma
+**Administrative support**: TBD
 
 ---
 
 ### Purpose
 
-The purpose of this meeting is to update each other on our work since our last meeting in Juneau and to map out a timeline of specific tasks (papers, datasets to be published) as the project enters its final year.
-
+To discuss fun stuff.
