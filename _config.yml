@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
-title: "HiMAT workshop"
-description: "Seattle All Hands Meeting, March 2018"
+title: "CAS/NASA Meeting"
+description: "CAS/NASA Meeting, May 2018"
 
 defaults:
   - scope:
