@@ -11,10 +11,10 @@ title: "Participant List"
 |Batu Osmanogolu|
 |Bruce Raup|
 |Isabella Velicogna|
-|Yeosang Yoon|
-|Shruti Mishra|
 |Sarah Kapnick|
+|Shruti Mishra|
 |Si-Chee Tsay|
 |Steven Margulis|
 |Summer Rupper|
 |Tom Painter|
+|Yeosang Yoon|
