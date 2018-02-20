@@ -5,10 +5,18 @@ title: "Logistics"
 
 # Logistics
 
+## Travel
+
+TBD
+
 ## Venue
 
-[South Campus Center](http://www.washington.edu/maps/print/?building=209)
+TBD
 
-## Hotel
+## Lodging
 
-We have reserved a block of rooms at the [Silver Cloud Inn](https://www.silvercloud.com/university/) in Seattle's University District.
+TBD
+
+## Food 
+
+TBD
